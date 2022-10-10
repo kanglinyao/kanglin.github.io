@@ -2,7 +2,7 @@
 title: Hello World
 date: 2022-10-07
 categories: [music]
-tags: [music, work]
+tags: [music]
 ---
 
 # This is my first post.
