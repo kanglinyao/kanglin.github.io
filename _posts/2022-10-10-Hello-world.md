@@ -12,5 +12,5 @@ I am hosting this site on Github.
 ```bash
 apt update
 ```
-![my piano]({{site.url}}/../../assets/images/2022-10-10-Hello-world/piano.jpg)
+![my piano]({{site.url}}/assets/images/2022-10-10-Hello-world/piano.jpg)
 
